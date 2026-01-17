@@ -1,0 +1,2 @@
+# A_Classification_Model_Based_on_SEB-CNN_for_P300_Signal_Recognition_of_P300_Speller
+这是我本科大三发的第一篇EI会议论文，关于P300脑电信号的识别
